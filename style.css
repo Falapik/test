@@ -1,0 +1,102 @@
+.div1{
+    background-color: #ffffff;
+    width: 500px;
+    height: 600px;
+    margin-left: 500px;
+}
+
+.body1{
+    background-color: #eeeeee;
+    width: max-content;
+    height: max-content;
+}
+
+.but1{
+    background-color: #255a9b;
+    border-color: #255a9b;
+    color: #eeeeee;
+    height: 30px;
+    padding-left: 20px;
+
+    
+}
+.but2{
+    background-color: #0076b6;
+    border-color: #0076b6;
+    color: #eeeeee;
+    height: 30px;
+    padding-left: 20px;
+
+    
+}
+
+.div2{
+    border-color: black;
+    background-color: black;
+
+    width: 100px;
+    height: 0.8px;
+    margin-top: 30px;
+    margin-left: 140px;
+}
+.div3{
+    border-color: black;
+    background-color: black;
+
+    width: 100px;
+    height: 0.8px;
+    margin-top: 0px;
+    margin-left: 280px;
+}
+
+.sqe{
+    border: 1px solid rgb(154, 154, 154);
+    border-width: 1px;
+    background-color: rgb(255, 255, 255);
+
+    width: 180px;
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 30px;
+    border-left: 3px solid #0076b6;
+    padding-left: 4px;
+
+}
+
+.email{
+    border: 1px solid rgb(255, 255, 255);
+    
+}
+
+.email:focus {
+    outline: none;
+}
+
+.text{
+    width: 200px;
+    height: 52px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 1px 10px 5px rgb(227, 227, 227);
+    margin-left: 60px;   
+}
+
+.radio{
+    font-size: 3px;
+
+}
+
+.agr{
+    margin-top: 15px;
+}
+
+.but3{
+    width: 180px;
+    height: 30px;
+    margin-left: 60px;
+    margin-top: 10px;
+    background-color: #0076b6;
+    color: #ffffff;
+    border-width: 5px;
+    border-color: #0076b6;
+
+}
